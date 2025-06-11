@@ -1,0 +1,2 @@
+# Lister les paquets installés
+apt list --installed
